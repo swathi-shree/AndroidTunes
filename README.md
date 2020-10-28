@@ -5,6 +5,10 @@ Android app that allows users to search and discover various songs and key detai
 The app does the following :
 
 1. The app opens up and displays the top picks panel and the different genres of music 
+
+<img src = "images/MainActivity.png">
+
+
 2. Upon clicking on one of the genres, it brings the user to a list of songs belonging to the particular genre
 3. Clicking on a particular song in the list would bring up the details of the song (Title,Artist etc.)
 
