@@ -10,7 +10,12 @@ The app does the following :
 
 
 2. Upon clicking on one of the genres, it brings the user to a list of songs belonging to the particular genre
+<img src = "images/ListActivity.png">
+
+
 3. Clicking on a particular song in the list would bring up the details of the song (Title,Artist etc.)
+<img src = "images/DetailsActivity.png>
+
 
 
 Key Features:
