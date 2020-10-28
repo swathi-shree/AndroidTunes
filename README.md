@@ -21,4 +21,4 @@ The app does the following :
 Key Features:
 
 1. Top Picks Panel - displays popular songs
-2. Slider Images - allows users to swipe through 3 images related to the song 
+2. Slider Images - allows users to swipe through 3 images related to the song ( in DetailsActivity)
