@@ -14,7 +14,7 @@ The app does the following :
 
 
 3. Clicking on a particular song in the list would bring up the details of the song (Title,Artist etc.)
-<img src = "images/DetailsActivity.png>
+<img src = "images/DetailsActivity.png">
 
 
 
